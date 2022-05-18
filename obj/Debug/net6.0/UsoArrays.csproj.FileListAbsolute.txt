@@ -1,0 +1,15 @@
+C:\Workspace\UsoArrays\bin\Debug\net6.0\UsoArrays.exe
+C:\Workspace\UsoArrays\bin\Debug\net6.0\UsoArrays.deps.json
+C:\Workspace\UsoArrays\bin\Debug\net6.0\UsoArrays.runtimeconfig.json
+C:\Workspace\UsoArrays\bin\Debug\net6.0\UsoArrays.dll
+C:\Workspace\UsoArrays\bin\Debug\net6.0\ref\UsoArrays.dll
+C:\Workspace\UsoArrays\bin\Debug\net6.0\UsoArrays.pdb
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.csproj.AssemblyReference.cache
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.AssemblyInfoInputs.cache
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.AssemblyInfo.cs
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.dll
+C:\Workspace\UsoArrays\obj\Debug\net6.0\ref\UsoArrays.dll
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.pdb
+C:\Workspace\UsoArrays\obj\Debug\net6.0\UsoArrays.genruntimeconfig.cache
